@@ -1,4 +1,4 @@
-# 星際公民 (Star Citizen) 繁體中文翻譯數據包
+# 星際公民 (Star Citizen) 繁體中文翻譯數據包(用於SCMDB 網頁)
 
 本儲存庫提供為 [SCMDB](https://scmdb.net/) (Star Citizen Mission & Data Browser) 工具製作的 SCMDB 網站，繁體中文翻譯檔案。讓社群玩家能在瀏覽器中以熟悉的語言查看遊戲任務與數據。
 
