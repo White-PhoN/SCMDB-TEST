@@ -9,7 +9,7 @@
 ### 1. 訪客快速連結
 直接在 SCMDB 網址後方加上參數即可套用（設定會儲存在瀏覽器中）：
 ```
-https://scmdb.dev?lang=https://raw.githubusercontent.com/White-PhoN/SCMDB-TEST/refs/heads/main/lang-global-4.7.1-live.11638371.json
+https://scmdb.net?lang=https://raw.githubusercontent.com/White-PhoN/SCMDB-TEST/refs/heads/main/lang-global-4.7.1-live.11638371.json
 ```
 
 ### 2. SCMDB 帳戶使用者
