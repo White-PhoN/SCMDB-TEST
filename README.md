@@ -1,6 +1,6 @@
 # 星際公民 (Star Citizen) 繁體中文翻譯數據包
 
-本儲存庫提供為 [SCMDB](https://scmdb.dev) (Star Citizen Mission & Data Browser) 製作的繁體中文翻譯檔案。讓社群玩家能在瀏覽器中以熟悉的語言查看遊戲任務與數據。
+本儲存庫提供為 [SCMDB](https://scmdb.dev) (Star Citizen Mission & Data Browser) 工具製作的 SCMDB 網站，繁體中文翻譯檔案。讓社群玩家能在瀏覽器中以熟悉的語言查看遊戲任務與數據。
 
 ## 🚀 快速開始 (如何使用)
 
@@ -8,12 +8,12 @@
 
 ### 1. 訪客快速連結
 直接在 SCMDB 網址後方加上參數即可套用（設定會儲存在瀏覽器中）：
-`https://scmdb.dev?lang=你的Raw檔案連結`
+https://scmdb.dev?lang=https://raw.githubusercontent.com/White-PhoN/SCMDB-TEST/refs/heads/main/lang-global-4.7.1-live.11638371.json
+
 
 ### 2. SCMDB 帳戶使用者
 1. 前往 SCMDB 的 **Settings**。
-2. 在 Language URL 欄位貼上本專案的 JSON 檔案直連網址 (Raw URL)。
-3. 儲存設定後即可跨裝置同步。
+2. 在 Language URL 欄位貼上本專案的 JSON 檔案直連網址 (https://raw.githubusercontent.com/White-PhoN/SCMDB-TEST/refs/heads/main/lang-global-4.7.1-live.11638371.json)。
 
 ## 📊 專案狀態 (最新版本)
 
@@ -21,9 +21,14 @@
 * **最後更新日期**：2026-04-24
 * **翻譯覆蓋率**：約 94% (2391/2542 鍵值已翻譯)
 
+如何移除
+無需帳戶：清除瀏覽器數據，或訪問scmdb.dev?lang=clear
+使用帳戶：從設定中移除 URL
+
 ## ⚖️ 法律聲明與版權說明 (Declarations)
 
 ### 1. 版權歸屬 (Ownership)
+* **遊戲數據**：本專案所包含之所有《星際公民》(Star Citizen) 遊戲文本中文皆由***澄清石灰水/everland_3769 提供以及繁體本地化***，目前使用版由本人(PhoN)維護。
 * **遊戲數據**：本專案所包含之所有《星際公民》(Star Citizen) 遊戲文本、數據及相關素材之版權均歸 **Cloud Imperium Games (CIG)** 所有。
 * **工具來源**：本翻譯檔案係透過 [SCMDB Community Translations](https://github.com/scmdb/scmdb-translations) 開放原始碼工具 `build_lang_template.py` 生成。
 
