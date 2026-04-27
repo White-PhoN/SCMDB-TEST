@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/White-PhoN/SCMDB-TEST/refs/heads/main/lang-glo
 * **翻譯覆蓋率**：約 94% (2391/2542 鍵值已翻譯)
 
 如何移除
-無需帳戶：清除瀏覽器數據，或訪問scmdb.dev?lang=clear
+無需帳戶：清除瀏覽器數據，或訪問scmdb.net?lang=clear
 使用帳戶：從設定中移除 URL
 
 ## ⚖️ 法律聲明與版權說明 (Declarations)
